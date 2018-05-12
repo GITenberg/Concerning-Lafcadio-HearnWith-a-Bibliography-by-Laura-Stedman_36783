@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/382
     wikipedia: http://en.wikipedia.org/wiki/George_M._Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36783#Concerning-Lafcadio-HearnWith-a-Bibliography-by-Laura-Stedman
 gutenberg_issued: '2011-07-19'
 gutenberg_type: Text
 identifiers:
