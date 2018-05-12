@@ -1,0 +1,40 @@
+_repo: Concerning-Lafcadio-HearnWith-a-Bibliography-by-Laura-Stedman_36783
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Stedman, Laura
+    aliases:
+    - Gould, Laura Stedman
+    - Dees, Laura Stedman Gould
+    birthdate: 1881
+    deathdate: 1939
+    gutenberg_agent_id: '35651'
+    url: http://www.gutenberg.org/2009/agents/35651
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gould, George M. (George Milbrey)
+    alias: Gould, George Milbry
+    birthdate: 1848
+    deathdate: 1922
+    gutenberg_agent_id: '382'
+    url: http://www.gutenberg.org/2009/agents/382
+    wikipedia: http://en.wikipedia.org/wiki/George_M._Gould
+description: ''
+gutenberg_issued: '2011-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36783'
+  lccn: '49035198'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Hearn, Lafcadio, 1850-1904 -- Bibliography'
+- !lcsh 'Hearn, Lafcadio, 1850-1904'
+title: Concerning Lafcadio Hearn; With a Bibliography by Laura Stedman
+url: http://www.gutenberg.org/ebooks/36783
